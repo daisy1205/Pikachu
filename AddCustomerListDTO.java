@@ -2,6 +2,7 @@ package com.belstar.dto.callcenter.detail;
 
 import java.io.Serializable;
 
+
 /**
  * DTO.
  * @author weily
